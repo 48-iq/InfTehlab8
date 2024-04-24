@@ -1,0 +1,49 @@
+﻿@model List<InfTehLab8.Models.Product>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>all</title>
+</head>
+<body>
+    <div> 
+        <table border="3" cellpadding="6" cellspacing="8">
+            <tr>
+                <td>название</td>
+                <td>описание</td>
+                <td>цена</td>
+                <td>осталось на складе</td>
+                <td>количество к покупке</td>
+            </tr>
+            @foreach (InfTehLab8.Models.Product product in Model)
+            {
+
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                    <td>@product.CountInStore</td>
+                    <td>
+                        <form action="/Order/add" method="post">
+                            <input type="number" name="ProductCount" min="0"/>
+                            <input type="hidden" value="@product.Id" name="ProductId"/>
+                            <input type="submit" value="добавить"/>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </table>
+        <div>
+            <form action="/Order/submit" method="get">
+                <input type="submit" value="к оформлению"/>
+            </form>
+           
+        </div>
+    </div>
+</body>
+</html>

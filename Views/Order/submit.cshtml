@@ -1,0 +1,52 @@
+﻿@model InfTehLab8.Models.Order
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>submit</title>
+</head>
+<body>
+    <div>
+        <table border="3" cellpadding="6" cellspacing="8">
+            <tr>
+                <td>название</td>
+                <td>описание</td>
+                <td>цена</td>
+                <td>осталось на складе</td>
+                <td>количество к покупке</td>
+            </tr>
+            @foreach (InfTehLab8.Models.OrderPosition position in Model.OrderPositions)
+            {
+                <tr>
+                    <td>@position.Product.Name</td>
+                    <td>@position.Product.Description</td>
+                    <td>@position.Product.Price</td>
+                    <td>@position.Product.CountInStore</td>
+                    <td>@position.CountInOrder</td>
+                </tr>
+            }
+        </table>
+    </div>
+    <br />
+    <br />
+    <div> 
+        <form action="/Order/submit" method="post">
+            <label for="clientName">Имя</label>
+            <input type="text" name="ClientName" id="clientName" required/>
+            <label for="clientSurname">Фамилия</label>
+            <input type="text" name="ClientSurname" id="clientSurname" required/>
+            <label for="clientPhone">Телефон</label>
+            <input type="tel" name="ClientPhone" id="clientPhone" required/>
+            <label for="clientEmail">Почта</label>
+            <input type="email" name="ClientEmail"id="clientEmail" required/>
+            <input type="submit" value="подтвердить"/>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#projects\\InfTehLab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|d:\\c#projects\\inftehlab8\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\orderpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\orderpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\AppData\\Local\\Temp\\0zmfwzep..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\AppData\\Local\\Temp\\mowjkbdm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\product\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\product\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\product\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\product\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\order\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\order\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\views\\order\\successsubmit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:views\\order\\successsubmit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|D:\\c#projects\\InfTehLab8\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1320320-730B-4393-83E4-BFB569DFD731}|InfTehLab8.csproj|solutionrelative:models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowE8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:29:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "all.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Product\\all.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\all.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Product\\all.cshtml",
+              "RelativeToolTip": "Views\\Product\\all.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:03:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminLogin.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Product\\adminLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\adminLogin.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Product\\adminLogin.cshtml",
+              "RelativeToolTip": "Views\\Product\\adminLogin.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:31:00.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDto.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\OrderDto.cs",
+              "RelativeToolTip": "Models\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:33:55.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderPositionDto.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\OrderPositionDto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderPositionDto.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\OrderPositionDto.cs",
+              "RelativeToolTip": "Models\\OrderPositionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:22:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderPosition.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\OrderPosition.cs",
+              "RelativeDocumentMoniker": "Models\\OrderPosition.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\OrderPosition.cs",
+              "RelativeToolTip": "Models\\OrderPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:18:03.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminPage.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Product\\adminPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\adminPage.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Product\\adminPage.cshtml",
+              "RelativeToolTip": "Views\\Product\\adminPage.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:27:17.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\1\\AppData\\Local\\Temp\\mowjkbdm..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-22T06:31:34.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\1\\AppData\\Local\\Temp\\0zmfwzep..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-22T06:37:45.506Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Error\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Error\\Index.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Error\\Index.cshtml",
+              "RelativeToolTip": "Views\\Error\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:43:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:28:26.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\AdminDto.cs",
+              "RelativeDocumentMoniker": "Models\\AdminDto.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\AdminDto.cs",
+              "RelativeToolTip": "Models\\AdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:34:05.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T07:25:15.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:14:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "submit.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Order\\submit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\submit.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Order\\submit.cshtml",
+              "RelativeToolTip": "Views\\Order\\submit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:26:40.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:41:33.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywBwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:15:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T11:30:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "successSubmit.cshtml",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Views\\Order\\successSubmit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\successSubmit.cshtml",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Views\\Order\\successSubmit.cshtml",
+              "RelativeToolTip": "Views\\Order\\successSubmit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:05:50.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:24:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "D:\\c#projects\\InfTehLab8\\Models\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\StoreContext.cs",
+              "ToolTip": "D:\\c#projects\\InfTehLab8\\Models\\StoreContext.cs",
+              "RelativeToolTip": "Models\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:20:57.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+﻿@model List<InfTehLab8.Models.Product>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <div>
+        <table   border="4" cellpadding="4" cellspacing="4">
+            <tr>
+                <td>
+                    <form action="/Product/save" method="post" width="1300">
+                        <nobr>
+                            Название:
+                            <input name="Name" type="text" required/>
+                        </nobr>
+                        <nobr>
+                            Описание:
+                            <input name="Description" type="text" required/>
+                        </nobr>
+                        <nobr>
+                            цена:
+                            <input name="Price" type="number" min="0" required/>
+                        </nobr>
+                        <nobr>
+                            количество в магазине:
+                            <input name="CountInStore" type="number" min="0" required/>
+                        </nobr>
+                        <input type="submit" value="создать" />
+                    </form>
+                </td>
+            </tr>
+        </table>
+        <table border="4" cellpadding="4" cellspacing="4">
+           @foreach (InfTehLab8.Models.Product product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>
+                        <form action="/Product/save" method="post" >
+                            <input type="hidden" value="@product.Id" name="Id"/>
+                            <nobr>
+                                Название:
+                                <input name="Name" type="text" value="@product.Name" required/>
+                            </nobr>
+                            <nobr>
+                                Описание:
+                                <input name="Description" type="text" value="@product.Description" required/>
+                            </nobr>
+                            <nobr>
+                                цена:
+                                <input name="Price" type="number" value="@product.Price" min="0" required/>
+                            </nobr>
+                            <nobr>
+                                количество в магазине:
+                                <input name="CountInStore" type="number" min="0" value="@product.CountInStore" required/>
+                            </nobr>
+                            <input type="submit" value="обновить" required/>
+                        </form>
+                    </td>
+                    <td>
+                        <form action="/Product/delete/@product.Id" method="get">
+                            <input type="submit" value="удалить" />
+                        </form>
+                    </td>
+                </tr>
+            }
+        </table>
+        <table border="4" cellpadding="4" cellspacing="4">
+
+            @foreach (InfTehLab8.Models.Order order in ViewBag.Orders)
+            {
+                <tr>
+                    <td>id</td>
+                    <td>Имя</td>
+                    <td>Фамилия</td>
+                    <td>Телефон</td>
+                    <td>Почта</td>
+                </tr>
+                <tr>
+                    <td>@order.Id</td>
+                    <td>@order.ClientName</td>
+                    <td>@order.ClientSurname</td>
+                    <td>@order.ClientPhone</td>
+                    <td>@order.ClientEmail</td>
+                </tr>
+                <tr>
+                    <td>Id</td>
+                    <td>Название</td>
+                    <td>Описание</td>
+                    <td>Цена</td>
+                    <td>Количество</td>
+                </tr>
+                foreach(InfTehLab8.Models.OrderPosition postion in order.OrderPositions)
+                {
+                    <tr>
+                        <td>@postion.Product.Id</td>
+                        <td>@postion.Product.Name</td>
+                        <td>@postion.Product.Description</td>
+                        <td>@postion.Product.Price</td>
+                        <td>@postion.CountInOrder</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</body>
+</html>
